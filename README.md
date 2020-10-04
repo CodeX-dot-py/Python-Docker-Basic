@@ -1,4 +1,4 @@
-Hello it's just an beginner's introduction to Python-Docker.
+Hello it's just a beginner's introduction to Python-Docker.
 
 Step 1: First you need to install the Docker Desktop application in your pc. 
 
