@@ -2,7 +2,7 @@ Hello it's just a beginner's introduction to Python-Docker.
 
 Step 1: First you need to install the Docker Desktop application in your pc. 
 
-]Step 2: Then go to the directory where you saved this git repository.
+Step 2: Then go to the directory where you saved this git repository.
 
 Step 3: Run the following Docker commands
 
