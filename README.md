@@ -9,5 +9,6 @@ Step 3: Run the following Docker commands
         docker build --tag <Image name> . [like: docker build --tag my_first_image .]
         docker run <Image name>           [Like: docker run my_first_image]
 
+
 Docker setup guide: https://docs.docker.com/docker-for-windows/install/
 link for downloading docker desktop: https://www.docker.com/products/docker-desktop
